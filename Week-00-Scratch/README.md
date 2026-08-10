@@ -1,8 +1,5 @@
 # 📦 CS50x – Week 0: Scratch Project
-## 🎮 Project: Tsunami Surf
-Welcome to my very first CS50x project — a game created using [Scratch](https://scratch.mit.edu/).\
-In this simple interactive game, the player controls a surfboard sprite that must avoid getting attacked by a shark, to gain a point player needs to collect the gold to increase their score.\
-The game showcases key programming concepts such as conditionals, loops, variables, and custom blocks.
+Welcome to
 ---
 # 🔗 Live Project Link
 👉 [Click here to play "Tsunami Surf"](https://scratch.mit.edu/projects/943169345)
