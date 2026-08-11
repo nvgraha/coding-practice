@@ -37,13 +37,13 @@ Here’s how the repository is organized:
 ```
 Week-01-C/
 ├── Problem-Set-01/
-│   ├── README.md
+│   ├── hello-world.c
+│   ├── hello-me.c
+│   ├── mario-less.c
+│   ├── mario-more.c
 │   ├── cash.c
 │   ├── credit.c
-│   ├── hello-me.c
-│   ├── hello-world.c
-│   ├── mario-less.c
-│   └── mario-more.c
+│   └── README.md
 └── README.md
 ```
 
