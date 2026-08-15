@@ -1,8 +1,8 @@
 # 🚀 CS50x - Week 01: C Programming
 ## Overview
-Welcome to **Week 01** of **CS50x**! This week, we dive into the world of **C programming**, laying the foundation for computational thinking and problem-solving. From variables and loops to functions and conditionals, we’re starting our coding journey with a bang! 💥
+Welcome to **Week 1** of **CS50x**! This week, we dive into the world of **C programming**, laying the foundation for computational thinking and problem-solving. From variables and loops to functions and conditionals, we’re starting our coding journey with a bang! 💥
 
-This repository contains my solutions to the problem sets and labs for Week 01, where we explore the basics of C and get hands-on with coding in a VS Code environment ([cs50.dev](https://cs50.dev/)).
+This repository contains my solutions to the problem sets and labs for Week 1, where we explore the basics of C and get hands-on with coding in a VS Code environment ([cs50.dev](https://cs50.dev/)).
 ## 📝 Problem Sets
 Here are the problems tackled this week:
 - **Hello**: A simple program to print "hello, world" and get familiar with C syntax.
@@ -30,7 +30,7 @@ make hello-me
 ./hello-me
 ```
 ## 💭 Reflections
-Week 01 was a thrilling introduction to C! 🖥️ The transition from Scratch to text-based programming was challenging but rewarding. Debugging syntax errors and mastering loops for Mario’s pyramids felt like solving puzzles. The `Cash` and `Credit` problems pushed me to think algorithmically, while the lab introduced real-world applications of coding. I’m excited to build on these skills in Week 02! 🚀
+Week 1 was a thrilling introduction to C! 🖥️ The transition from Scratch to text-based programming was challenging but rewarding. Debugging syntax errors and mastering loops for Mario’s pyramids felt like solving puzzles. The `Cash` and `Credit` problems pushed me to think algorithmically, while the lab introduced real-world applications of coding. I’m excited to build on these skills in Week 2! 🚀
 ***
 ## 📂 Directory Structure
 Here’s how the repository is organized:
