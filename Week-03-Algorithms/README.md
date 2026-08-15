@@ -17,8 +17,8 @@ Through these assignments, I aimed to master the following concepts:
 ## ⚙️ How to Run the Code
 To compile and run the programs:
 1. Ensure a C compiler (e.g., `clang`) is installed.
-2. Clone the repository: `git clone https://github.com/nvgraha/coding-practice.git`
-3. Navigate to the folder: `cd coding-practice/Week-03-Algorithms`
+2. Clone the repository: `git clone https://github.com/nvgraha/intro-to-cs.git`
+3. Navigate to the folder: `cd intro-to-cs/Week-03-Algorithms`
 4. Compile a program: `clang program_name.c -o program_name -lcs50`
 5. Run it: `./program_name`
 6. For programs requiring arguments (e.g., Plurality): `./plurality Alice Bob Charlie`
@@ -26,7 +26,7 @@ To compile and run the programs:
 Use CS50 tools like `make` for compilation, `style50` for formatting, and `check50` for testing. 🛠️
 
 ## 💭 Reflections
-Week 3 was an exciting dive into algorithms! 📟 Grasping the differences between linear and binary search clarified the importance of data organization. Implementing sorting algorithms like merge sort was challenging but rewarding, especially when visualizing their efficiency. The Tideman problem pushed my understanding of complex logic and edge cases. Debugging with `debug50` helped me refine my solutions, and I now appreciate how algorithmic efficiency impacts real-world programs.
+Week 3 was an exciting dive into algorithms! 📟 Grasping the differences between linear and binary search clarified the importance of data organization. Implementing sorting algorithms like merge sort was challenging but rewarding, especially when visualizing their efficiency. The Tideman problem pushed my understanding of complex logic and edge cases. Debugging with `debug50` helped me refine my solutions and I now appreciate how algorithmic efficiency impacts real-world programs.
 
 ## 📂 Directory Structure
 Here’s how the repository is organized:
