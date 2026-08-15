@@ -19,8 +19,8 @@ Through these assignments, I aimed to master the following concepts:
 ## ⚙️ How to Run the Code
 To compile and run the programs:
 1. Ensure a C compiler (e.g., `clang`) is installed.
-2. Clone the repository: `git clone https://github.com/nvgraha/coding-practice.git`
-3. Navigate to the folder: `cd coding-practice/Week-02-Arrays`
+2. Clone the repository: `git clone https://github.com/nvgraha/intro-to-cs.git`
+3. Navigate to the folder: `cd intro-to-cs/Week-02-Arrays`
 4. Compile a program: `clang program_name.c -o program_name -lcs50`
 5. Run it: `./program_name`
 6. For programs requiring arguments (e.g., Caesar): `./caesar 14`
@@ -29,7 +29,7 @@ Use CS50 tools like `make` for compilation, `style50` for formatting, and `check
 
 ## 💭 Reflections
 Working on Week 2 was both challenging and rewarding! 🌟 Understanding strings as arrays of characters was a key insight, especially for problems like Readability and Scrabble. Handling command-line arguments in Caesar taught me how to make programs more dynamic. I faced challenges with edge cases (e.g., invalid inputs), but debugging with `debug50` helped me improve. These exercises boosted my confidence in C programming and problem-solving.
-***
+
 ## 📂 Directory Structure
 Here’s how the repository is organized:
 ```
